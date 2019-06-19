@@ -1,6 +1,6 @@
 class Dog
 
-  def name        #getter
+  def name        #getter method gets value of instance variable
     @name
   end
 
