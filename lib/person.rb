@@ -1,6 +1,6 @@
 class Person
 
-  def name
+  def name                    #getter method gets value of instance variable
     @name
   end
 
