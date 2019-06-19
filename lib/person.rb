@@ -4,7 +4,7 @@ class Person
     @name
   end
 
-  def name=(person_name)
+  def name=(person_name)      #setter method that sets a value of an instance variable.
     @name = person_name
   end
 
