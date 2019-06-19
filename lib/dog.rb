@@ -4,7 +4,7 @@ class Dog
     @name
   end
 
-  def name=(dog_name)
+  def name=(dog_name)     ##setter method that sets a value of an instance variable.
     @name = dog_name
   end
 
