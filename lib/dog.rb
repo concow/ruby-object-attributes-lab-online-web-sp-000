@@ -1,7 +1,7 @@
 class Dog
 
   def name        #getter
-    @dog_name
+    @name
   end
 
   def name=(dog_name)
